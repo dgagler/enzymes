@@ -11,13 +11,13 @@ EC 1.1 are oxidoreductases acting on CH-OH electron donors
 EC 1.1.1 are oxidoreductases acting on CH-OH electron donors with NAD or NADP as electron acceptors
 EC 1.1.1.1 are specific instances of ECs in the 1.1.1 category
 
-EC 1 = oxidoreductases
-EC 2 = transferases; involved in transferring functional groups between molecules
-EC 3 = hydrolases; involved in cleaving bonds via hydrolysis reactions (using H2O to cleave a bond)
-EC 4 = lyases; involved in cleaving bonds in ways other than hydroysis
-EC 5 = isomerases; involved in the structural rearrangement of molecules
-EC 6 = ligases; involved in the ligation (joining) of two molecules to form a larger molecule
-EC 7* = translocases; involved in transporting substrates across membranes
+**EC 1** = oxidoreductases\
+**EC 2** = transferases; involved in transferring functional groups between molecules\
+**EC 3** = hydrolases; involved in cleaving bonds via hydrolysis reactions (using H2O to cleave a bond)\
+**EC 4** = lyases; involved in cleaving bonds in ways other than hydroysis\
+**EC 5** = isomerases; involved in the structural rearrangement of molecules\
+**EC 6** = ligases; involved in the ligation (joining) of two molecules to form a larger molecule\
+**EC 7*** = translocases; involved in transporting substrates across membranes\
 
 * note that translocases are a new EC classification and few organisms/enzymes have been annotated as such
 
